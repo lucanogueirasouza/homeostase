@@ -13,6 +13,7 @@ Funcionalidades:
   - `manter()` → mantém a temperatura caso esteja entre 35 °C e 38 °C.
 - Simulação em **10 ciclos** com pausa de **1 segundo** entre cada etapa.
 - Exibição de mensagens e temperatura no terminal a cada ciclo.
+  
 !!CÓDIGO FEITO PARA APRENSENTAÇÃO DE ATIVIDADE CURRICULAR DO CURSO DE DESENVOLVIMENTO DE SISTEMAS EM MINHA ESCOLA!!
 
 ## English
@@ -27,4 +28,5 @@ Functionalities:
   - `manter()` → keeps the temperature if within the ideal range.
 - **10-cycle simulation** with **1-second delay** between each cycle.
 - Terminal output shows cycle number and current body temperature.
+  
 !!CODE MADE FOR LEARNING CURRICULAR ACTIVITY OF SYSTEMS DEVELOPMENT COURSE IN MY SCHOOL!!
